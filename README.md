@@ -18,7 +18,7 @@ Details about scope and program lines will be explained further.
 This language just support one line commands. This comments are in below format:
 
 ```
-\\ This is my comment :)
+\\ This is a comment 
 ```
 
 #### Naming Rules
